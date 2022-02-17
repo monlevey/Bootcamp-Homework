@@ -7,7 +7,7 @@ Code was refactored to better learn semantic HTML and how to condense CSS.
 ***
 
 ## Demo
-![Horiseon website demo](../Bootcamp-Homework/Horiseon website demo.png) 
+[Horiseon website demo] <img src="../Bootcamp-Homework/Horiseon website demo.png"/> 
 
 The Horiseon Website will render as the above image displays. If the user requires a screen reader, the website is optimized with alt tags.
 
